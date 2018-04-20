@@ -1,4 +1,4 @@
-// Please change the ip address while running on different machine
+// IP sensitive
 #include<stdio.h>
 #include<sys/types.h>
 #include<sys/socket.h>
